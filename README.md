@@ -40,7 +40,7 @@ Compilation:
 To modify the PHP code, you can leverage frameworks like Electron to build the application according to your specific needs.
 		
 			
-Working direcoty is (data/wwww). New HD images created using the front end will be created in this directory. Simply load your hard drive images and ISO files in this directory as well for easy method of only needing to provide the file name without the full path since this is our "Application" working directory.  
+Working direcoty is (data/www). New HD images created using the front end will be created in this directory. Simply load your hard drive images and ISO files in this directory as well for easy method of only needing to provide the file name without the full path since this is our "Application" working directory.  
 
 Discover the convenience and reliability of Classic Apple Sauce for running Mac OS 9.2 smoothly in a QEMU environment. Embrace the stability, compatibility, and familiarity of this emulator, bringing you closer to the authentic Mac experience. Start your journey with Classic Apple Sauce today!
 	
