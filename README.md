@@ -49,4 +49,4 @@ Discover the convenience and reliability of Classic Apple Sauce for running Mac 
 	
 	Todo / Bugs
 	
-	-Browse Function displays a fake path. User needs to correct path after selection. This is a hard coded security issue limitation. 
+	-Browse Function places a fake path once file is selected in the form. User needs to correct to real path after selection. This is a hard coded security issue limitation. The Browse function is still good to have as it allows a quick access to browse for our files without needing to close or minimize the front end to help us remember the full path of our many files.  
