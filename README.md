@@ -43,4 +43,4 @@ Discover the convenience and reliability of Classic Apple Sauce for running Mac 
 	
 	Todo / Bugs
 	
-	-Browse Function displays a fake path. User needs to correct by correcting path. This is a hard coded security issue limitation. 
+	-Browse Function displays a fake path. User needs to correct path after selection. This is a hard coded security issue limitation. 
