@@ -37,3 +37,5 @@ Compilation:
 To modify the PHP code, you can leverage frameworks like Electron to build the application according to your specific needs.
 
 Discover the convenience and reliability of Classic Apple Sauce for running Mac OS 9.2 smoothly in a QEMU environment. Embrace the stability, compatibility, and familiarity of this emulator, bringing you closer to the authentic Mac experience. Start your journey with Classic Apple Sauce today!
+	
+	To get started and boot Mac OS 9.2. Download the precompiled release and run on your Windows 10 64 bit system.
