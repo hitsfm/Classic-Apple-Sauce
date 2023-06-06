@@ -20,10 +20,12 @@ Windows UI Front End: The full-fledged Windows user interface allows for easy na
 Boot Disk/ISO Directory: Optionally specify the boot disk or ISO directory for enhanced flexibility.
 Profile Management: Save and load profiles for different emulated machines effortlessly.
 New Hard Disk Creation: Create new blank hard disk files with just a few clicks.
+	<p>
 System Requirements:
 <p>
 Windows 10 64-bit or higher
 Intel Core i7 CPU or better
+	<p>
 Emulated Machine Specifications:
 <p>
 Machine: G3
@@ -32,9 +34,11 @@ Hard Drive 1 and 2: 2 GB each
 Networking: Host-NAT DHCP Server (AppleTalk compatible; advanced users can set up virtual TAP on Windows host for online functionality)
 Sound Support
 CD ISO: Optional (configurable via the front end)
+	<p>
 	
 Compilation:
 To modify the PHP code, you can leverage frameworks like Electron to build the application according to your specific needs.
+		<p>
 
 Discover the convenience and reliability of Classic Apple Sauce for running Mac OS 9.2 smoothly in a QEMU environment. Embrace the stability, compatibility, and familiarity of this emulator, bringing you closer to the authentic Mac experience. Start your journey with Classic Apple Sauce today!
 	
