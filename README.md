@@ -49,4 +49,9 @@ Discover the convenience and reliability of Classic Apple Sauce for running Mac 
 	
 Todo / Bugs
 	
-Browse Function places a fake path once file is selected in the form. User needs to correct to real path after selection. This is a hard coded security issue limitation. The Browse function is still good to have as it allows a quick access to browse for our files without needing to close or minimize the front end to help us remember the full path of our many files.  
+Browse Function: Places a fake path once file is selected in the form. User needs to correct to real path after selection. This is a hard coded security issue limitation. The Browse function is still good to have as it allows a quick access to browse for our files without needing to close or minimize the front end to help us remember the full path of our many files.  
+		
+Spladh Screen App:
+First version for Windows. Just unzip and run. Don't modify contents of data directory or the emulator will break. Windows may detect as a false malware as this uses CMD to pass your QEMU settings. Sorry. If you don't trust it simply take a look at the Data/www/ directory and find QEMU.BAT and take a look at the content yourself for peace of mind before running the application. Then allow the app to run on your system. The choice is yours, Optionally if you prefer bypassing the easy launcher app. Just manually navigate to the directory data and start the program phpdesktop-chrome.exe This will load the emulator front end. I used simple Bat2EXE program to make a nice launcer. It's optinal to run the emulator as you can simply browse to the data directory and run the execuatble from there. I may convert this to a better app using visual basic instead if Windows keeps complaining about malware.
+		
+TODO: Check back often as I will include updated files or links to virtual Mac OS machines that are preconfigured and ready to go with Classic Apple Sauce V 1.0. That you can import from the front end UI with drive images such as applications and games. This will save you the many many hours of having to install, reboot, reload just to operate your favorite classic application or game. 
