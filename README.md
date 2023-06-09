@@ -1,4 +1,4 @@
-# Classic Apple Sauce Version 1.0
+# Classic Apple Sauce Version 1.01
 <p>
 	Easy Mac OS 9.2 Emulation For Windows
 
